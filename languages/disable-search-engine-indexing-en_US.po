@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Disable Search Engine Indexing\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-10 17:15+0000\n"
+"PO-Revision-Date: 2024-09-10 17:16+0000\n"
+"Last-Translator: Tadeáš\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: disable-search-engine-indexing"
+
+#. Name of the plugin
+msgid "Disable Search Engine Indexing"
+msgstr ""
+
+#: block_indexing.php:20
+msgid ""
+"Indexace je trvale vypnutá pomocí utility pluginu Disable Search Engine "
+"Indexing."
+msgstr ""
+"Indexing is permanently disabled using the Disable Search Engine Indexing "
+"plugin utility."
+
+#. Author of the plugin
+msgid "Nimixx"
+msgstr ""
+
+#. Description of the plugin
+msgid "Tento plugin trvale vypne indexaci webu pomocí jednoduchého filtru."
+msgstr "This plugin permanently disables site indexing using a simple filter."
