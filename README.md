@@ -8,6 +8,10 @@ The plugin does the following:
 - Disables search engine indexing by setting the "Search Engine Visibility" option to "Discourage search engines from indexing this site".
 - Provides a custom notice in the WordPress admin to inform users that indexing is disabled by this plugin.
 
+## Reason for Development
+
+The plugin was created to address a common issue that occurs when developing a website on a client's subdomain or a publicly accessible server. In such cases, it's easy to accidentally enable search engine indexing, which can lead to the premature or unintended exposure of the website to search engines. This plugin ensures that indexing is always disabled during development, preventing any accidental indexing that could affect the client's SEO or expose unfinished content.
+
 ## Warning
 
 🚨 **This plugin is intended for use in development environments only and should not be used in a production environment.** The plugin forces the site to be invisible to search engines by permanently disabling indexing. Make sure to deactivate and remove this plugin when moving to a production environment.
@@ -32,3 +36,4 @@ The plugin supports translations. Currently, it is available in:
 ## License
 
 This plugin is open-source and licensed under the [GPL-2.0 License](https://www.gnu.org/licenses/gpl-2.0.html).
+

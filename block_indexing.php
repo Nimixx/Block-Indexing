@@ -1,4 +1,4 @@
-<?php
+ <?php
 /**
  * Plugin Name: Disable Search Engine Indexing
  * Description: Tento plugin trvale vypne indexaci webu pomocí jednoduchého filtru.
